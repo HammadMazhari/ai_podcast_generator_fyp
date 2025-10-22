@@ -1,0 +1,11 @@
+gunicorn
+
+
+Flask
+flask-cors
+python-dotenv
+requests
+openai
+youtube_transcript_api
+elevenlabs==0.2.19
+pydub

@@ -9,9 +9,6 @@
 
 </p>
 
-![Python Version][python-image]
-![License][license-image]
-
 ## Setup 
 
 1. Install Python 3.9 or later.
